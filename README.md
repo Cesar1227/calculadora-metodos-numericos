@@ -1,4 +1,4 @@
-# calculadora-metodos-numericos
+# Calculadora-metodos-numericos
 Calculadora de métodos numéricos en Java
 
 ### Funcionalidades
